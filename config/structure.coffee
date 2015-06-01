@@ -42,6 +42,19 @@ module.exports =
       id:"attrahera"
       location:"example#attrahera"
     }
+
+    {
+      id:"rekrytering"
+      location:"example#rekrytering"
+    }
+    {
+      id:"rekr_ja1"
+      location:"example#rekr_ja1"
+    }
+    {
+      id:"rekr_nej1"
+      location:"example#rekrytering"
+    }
   ]
 
   # drawers:
